@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Formulario personas</string>
+    <string name="action_settings">Settings</string>
+    <string name="nombre">Ingrese su nombre</string>
+    <string name="edad">Ingrese una edad</string>
+    <string name="ocupacion">Ingrese una ocupación</string>
+    <string name="email">Ingrese su correo electrónico</string>
+</resources>

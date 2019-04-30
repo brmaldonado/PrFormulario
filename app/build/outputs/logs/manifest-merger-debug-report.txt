@@ -1,0 +1,179 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\2a47fd932f2cfd964b385ae7a5611c4b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\5474b59fb7a0499a28ce640a8c5d08b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\58fa1b2ece4f9b46710fd0d5e316679b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.2.4] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\dbflow-4.2.4.aar\40f3c410378ef44bc2a9fed17912dad9\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a3ca10116c23d19ae703a1052d865582\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e25c6bcccfaeb9f9da4a4d60166f77f8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c1cdd85f3a8f2e6f586215e12637db2f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\b82f6ec134dfa6763559df77c38ecdf1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\8916da58a56f52d21065c11aef572f48\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\baae6ee3a0a1834c110226f66dd4c8be\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\5e09f6f3ad1e1a33ef18a977332026ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\26cd36ffafb281aab3a573b63d01b082\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\41687fb15f1188ac3e016f7865a74508\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\347cff8d5ff7e1f06f07c04f3f6ccecc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\28d734582e2469dcf129245a13fdff5f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\c361c026ea3b411b02dc2672565d060a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\90065a0599d750139c5569d28a811aa9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0f45f138f4ae2396f10ba3aaccc62f84\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\67115198291a7e92697188744d0947ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\32d91a5b20167d1535e7490491446a65\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0dd6c727201bc083245d8c318158ea89\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\71f82b6d3762c21e0287aad63f35d730\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\f9d1386b1beb98e54ee486dd6ad277e3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\683f68a864d487d56f77f7aa4fbb3d23\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\9aa613a4bfd8cf467e80c93431da1135\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ee4786acd800baf28ac9b9e9e40ba6cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\f0a8f63d6e1d627467a532f33c28b50d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\692850122ee1aa5990b7118c86be4066\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a5dca159638ea941e49372129980a103\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\2e54f148473eded0411e1ebe82916939\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c4b322397bb5c11dfe9442dcd6f52360\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e39788fd73be797109879f51fb3f1742\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\2a47fd932f2cfd964b385ae7a5611c4b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\2a47fd932f2cfd964b385ae7a5611c4b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\58fa1b2ece4f9b46710fd0d5e316679b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\58fa1b2ece4f9b46710fd0d5e316679b\AndroidManifest.xml:9:5-20
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.2.4] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\dbflow-4.2.4.aar\40f3c410378ef44bc2a9fed17912dad9\AndroidManifest.xml:11:5-20
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.2.4] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\dbflow-4.2.4.aar\40f3c410378ef44bc2a9fed17912dad9\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\32d91a5b20167d1535e7490491446a65\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\32d91a5b20167d1535e7490491446a65\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0dd6c727201bc083245d8c318158ea89\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0dd6c727201bc083245d8c318158ea89\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\32d91a5b20167d1535e7490491446a65\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml:10:9-63
+	android:icon
+		ADDED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml:9:9-45
+activity#com.example.curacao.formulariopersonas.activities.MainActivity
+ADDED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml:13:9-22:20
+	android:label
+		ADDED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml:15:13-45
+	android:theme
+		ADDED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml:14:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\2a47fd932f2cfd964b385ae7a5611c4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\2a47fd932f2cfd964b385ae7a5611c4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\5474b59fb7a0499a28ce640a8c5d08b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\5474b59fb7a0499a28ce640a8c5d08b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\58fa1b2ece4f9b46710fd0d5e316679b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\58fa1b2ece4f9b46710fd0d5e316679b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.2.4] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\dbflow-4.2.4.aar\40f3c410378ef44bc2a9fed17912dad9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Raizlabs.DBFlow:dbflow:4.2.4] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\dbflow-4.2.4.aar\40f3c410378ef44bc2a9fed17912dad9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a3ca10116c23d19ae703a1052d865582\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a3ca10116c23d19ae703a1052d865582\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e25c6bcccfaeb9f9da4a4d60166f77f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\e25c6bcccfaeb9f9da4a4d60166f77f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c1cdd85f3a8f2e6f586215e12637db2f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\c1cdd85f3a8f2e6f586215e12637db2f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\b82f6ec134dfa6763559df77c38ecdf1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\b82f6ec134dfa6763559df77c38ecdf1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\8916da58a56f52d21065c11aef572f48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\8916da58a56f52d21065c11aef572f48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\baae6ee3a0a1834c110226f66dd4c8be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\baae6ee3a0a1834c110226f66dd4c8be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\5e09f6f3ad1e1a33ef18a977332026ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\5e09f6f3ad1e1a33ef18a977332026ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\26cd36ffafb281aab3a573b63d01b082\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\26cd36ffafb281aab3a573b63d01b082\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\41687fb15f1188ac3e016f7865a74508\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\41687fb15f1188ac3e016f7865a74508\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\347cff8d5ff7e1f06f07c04f3f6ccecc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\347cff8d5ff7e1f06f07c04f3f6ccecc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\28d734582e2469dcf129245a13fdff5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\28d734582e2469dcf129245a13fdff5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\c361c026ea3b411b02dc2672565d060a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\c361c026ea3b411b02dc2672565d060a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\90065a0599d750139c5569d28a811aa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\90065a0599d750139c5569d28a811aa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0f45f138f4ae2396f10ba3aaccc62f84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0f45f138f4ae2396f10ba3aaccc62f84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\67115198291a7e92697188744d0947ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\67115198291a7e92697188744d0947ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\32d91a5b20167d1535e7490491446a65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\32d91a5b20167d1535e7490491446a65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0dd6c727201bc083245d8c318158ea89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0dd6c727201bc083245d8c318158ea89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\71f82b6d3762c21e0287aad63f35d730\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\71f82b6d3762c21e0287aad63f35d730\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\f9d1386b1beb98e54ee486dd6ad277e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\f9d1386b1beb98e54ee486dd6ad277e3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\683f68a864d487d56f77f7aa4fbb3d23\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\683f68a864d487d56f77f7aa4fbb3d23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\9aa613a4bfd8cf467e80c93431da1135\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\9aa613a4bfd8cf467e80c93431da1135\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ee4786acd800baf28ac9b9e9e40ba6cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ee4786acd800baf28ac9b9e9e40ba6cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\f0a8f63d6e1d627467a532f33c28b50d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\f0a8f63d6e1d627467a532f33c28b50d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\692850122ee1aa5990b7118c86be4066\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\692850122ee1aa5990b7118c86be4066\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a5dca159638ea941e49372129980a103\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a5dca159638ea941e49372129980a103\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\2e54f148473eded0411e1ebe82916939\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\2e54f148473eded0411e1ebe82916939\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c4b322397bb5c11dfe9442dcd6f52360\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c4b322397bb5c11dfe9442dcd6f52360\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e39788fd73be797109879f51fb3f1742\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\curacao\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e39788fd73be797109879f51fb3f1742\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\curacao\Downloads\Formulariopersonas\app\src\main\AndroidManifest.xml

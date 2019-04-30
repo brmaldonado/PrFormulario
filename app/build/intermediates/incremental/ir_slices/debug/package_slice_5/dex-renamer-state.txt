@@ -1,0 +1,4 @@
+#Thu Apr 25 10:28:21 CST 2019
+base.0=C\:\\Users\\curacao\\Downloads\\Formulariopersonas\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex

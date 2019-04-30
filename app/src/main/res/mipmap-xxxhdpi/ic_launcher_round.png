@@ -1,0 +1,212 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="41" />
+      <entry action="$Delete" count="87" />
+      <entry action="$Paste" count="42" />
+      <entry action="$Undo" count="918" />
+      <entry action="About" count="2" />
+      <entry action="ActivateProjectToolWindow" count="1" />
+      <entry action="Android.RunAndroidAvdManager" count="1" />
+      <entry action="ChooseRunConfiguration" count="2" />
+      <entry action="CodeCleanup" count="1" />
+      <entry action="CodeCompletion" count="595" />
+      <entry action="CollapseRegion" count="1" />
+      <entry action="Cvs.BrowseCVSRepository" count="1" />
+      <entry action="Debug" count="4" />
+      <entry action="DialogOkAction Intro" count="100" />
+      <entry action="EditorBackSpace" count="14855" />
+      <entry action="EditorChooseLookupItem" count="2743" />
+      <entry action="EditorCopy" count="249" />
+      <entry action="EditorCut" count="73" />
+      <entry action="EditorDelete" count="593" />
+      <entry action="EditorDown" count="3611" />
+      <entry action="EditorDownWithSelection" count="5" />
+      <entry action="EditorDuplicate" count="369" />
+      <entry action="EditorEnter" count="1925" />
+      <entry action="EditorEscape" count="1" />
+      <entry action="EditorIndentSelection" count="1" />
+      <entry action="EditorLeft" count="797" />
+      <entry action="EditorLeftWithSelection" count="52" />
+      <entry action="EditorLineEnd" count="3" />
+      <entry action="EditorPaste" count="448" />
+      <entry action="EditorRight" count="939" />
+      <entry action="EditorRightWithSelection" count="106" />
+      <entry action="EditorSelectWord" count="1" />
+      <entry action="EditorSplitLine" count="14" />
+      <entry action="EditorStartNewLine" count="1" />
+      <entry action="EditorStartNewLineBefore" count="1" />
+      <entry action="EditorTab" count="114" />
+      <entry action="EditorToggleInsertState" count="4" />
+      <entry action="EditorUp" count="760" />
+      <entry action="EditorUpWithSelection" count="5" />
+      <entry action="ExternalSystem.ShowSettings" count="1" />
+      <entry action="FileChooser.GotoDesktop" count="1" />
+      <entry action="FileChooser.GotoHome" count="6" />
+      <entry action="FileChooser.GotoProject" count="1" />
+      <entry action="FileChooser.ShowHiddens" count="2" />
+      <entry action="Find" count="1" />
+      <entry action="GotoBookmark9" count="1" />
+      <entry action="GotoClass" count="1" />
+      <entry action="GotoDeclaration" count="2" />
+      <entry action="HideAllWindows" count="5" />
+      <entry action="Kotlin.NewFile" count="1" />
+      <entry action="MakeGradleProject" count="4" />
+      <entry action="NewAndroidImageAsset" count="4" />
+      <entry action="NewAndroidVectorAsset" count="14" />
+      <entry action="NewClass" count="30" />
+      <entry action="NewDir" count="31" />
+      <entry action="NewProject" count="25" />
+      <entry action="NewScratchFile" count="1" />
+      <entry action="OpenFile" count="93" />
+      <entry action="OverrideMethods" count="8" />
+      <entry action="Progress Paused" count="4" />
+      <entry action="Progress Resumed" count="14" />
+      <entry action="RebuildGradleProject" count="1" />
+      <entry action="ReformatCode" count="16" />
+      <entry action="Replace" count="4" />
+      <entry action="Rerun" count="1" />
+      <entry action="RevealIn" count="20" />
+      <entry action="Run" count="311" />
+      <entry action="SaveAll" count="1013" />
+      <entry action="SearchEverywhere" count="2" />
+      <entry action="ShowIntentionActions" count="101" />
+      <entry action="ShowSettings" count="1" />
+      <entry action="ToggleLineBreakpoint" count="22" />
+      <entry action="UsageView.Exclude" count="1" />
+      <entry action="Vcs.Checkout.Git" count="1" />
+      <entry action="Vcs.Push" count="1" />
+      <entry action="Vcs.QuickListPopupAction" count="1" />
+      <entry action="Vcs.RefreshStatuses" count="1" />
+      <entry action="editRunConfigurations" count="1" />
+    </counts>
+  </component>
+  <component name="FeatureUsageStatistics" first-run="1550040974363" have-been-shown="false" show-in-other="true" show-in-compilation="true">
+    <feature id="refactoring.moveTopLevel" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceTypedef" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.rename" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.pushDown" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineMacro" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.changeSignature" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickFix" count="260" last-shown="0" last-used="1556126761130" shown-count="0" />
+    <feature id="codeassists.altInsert" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.complete.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineTypedef" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceConstant" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.pullUp" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.class" count="1" last-shown="0" last-used="1551901986579" shown-count="0" />
+    <feature id="codeassists.overrideimplement" count="12" last-shown="0" last-used="1556080003365" shown-count="0" />
+    <feature id="codeassists.parameterInfo" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineParameter" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition" count="0" last-shown="1556126894505" last-used="0" shown-count="157" />
+    <feature id="editing.completion.basic" count="2907" last-shown="0" last-used="1556127879260" shown-count="0" />
+    <feature id="refactoring.inlineConst" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="generate.definitions" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.extractMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceDefine" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.select.word" count="44" last-shown="0" last-used="1556127745843" shown-count="0" />
+    <feature id="refactoring.extractSuperclass" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="2" last-shown="0" last-used="1553476940493" shown-count="0" />
+    <feature id="refactoring.inlineMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.extractSubclass" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.smarttype.general" count="0" last-shown="1556126684257" last-used="0" shown-count="1275" />
+    <feature id="navigation.popup.file.structure" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.new.cmake.project" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.liveTemplates" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc" count="0" last-shown="1556126894504" last-used="0" shown-count="157" />
+    <feature id="refactoring.introduceParameter" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineLocalVar" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.appCodeIntroduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.moveMembers" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <completionStatsTag>
+      <option name="sparedCharacters" value="29117" />
+      <option name="invocations" value="2344" />
+      <option name="startDate" value="1550037600000" />
+      <option name="dayCount" value="26" />
+      <option name="lastDate" value="1556085600000" />
+    </completionStatsTag>
+    <fixesStatsTag>
+      <option name="invocations" value="260" />
+      <option name="startDate" value="1550037600000" />
+      <option name="dayCount" value="22" />
+      <option name="lastDate" value="1556085600000" />
+    </fixesStatsTag>
+  </component>
+  <component name="IntentionsCollector">
+    <Intentions>
+      <entry name="Groovy com.android.tools.idea.lint.SuppressLintIntentionAction" count="5" />
+      <entry name="Groovy org.jetbrains.android.intentions.AndroidAddLibraryDependencyAction" count="1" />
+      <entry name="Groovy ui.EditorNotificationPanel$MyLinkOption" count="1" />
+      <entry name="JAVA codeInspection.ex.EditInspectionToolsSettingsAction" count="7" />
+      <entry name="JAVA codeInspection.varScopeCanBeNarrowed.FieldCanBeLocalInspection$ConvertFieldToLocalQuickFix" count="1" />
+      <entry name="JAVA com.android.tools.idea.lint.SuppressLintIntentionAction" count="1" />
+      <entry name="JAVA com.siyeh.ig.style.DiamondCanBeReplacedWithExplicitTypeArgumentsInspection$DiamondTypeFix" count="1" />
+      <entry name="JAVA com.siyeh.ig.style.UnnecessaryParenthesesInspection$UnnecessaryParenthesesFix" count="1" />
+      <entry name="JAVA com.siyeh.ig.style.UnnecessarySemicolonInspection$UnnecessarySemicolonFix" count="1" />
+      <entry name="JAVA com.siyeh.ipp.modifiers.MakePrivateIntention" count="1" />
+      <entry name="JAVA com.siyeh.ipp.modifiers.MakeProtectedIntention" count="1" />
+      <entry name="JAVA daemon.impl.GutterIntentionAction" count="2" />
+      <entry name="JAVA daemon.impl.quickfix.AccessStaticViaInstanceFix" count="7" />
+      <entry name="JAVA daemon.impl.quickfix.AddLibraryDependencyFix" count="6" />
+      <entry name="JAVA daemon.impl.quickfix.AddMethodQualifierFix" count="1" />
+      <entry name="JAVA daemon.impl.quickfix.CastMethodArgumentFix" count="6" />
+      <entry name="JAVA daemon.impl.quickfix.ChangeMethodSignatureFromUsageFix" count="1" />
+      <entry name="JAVA daemon.impl.quickfix.CreateClassFromUsageFix" count="4" />
+      <entry name="JAVA daemon.impl.quickfix.CreateParameterFromUsageFix" count="1" />
+      <entry name="JAVA daemon.impl.quickfix.EnableOptimizeImportsOnTheFlyFix" count="1" />
+      <entry name="JAVA daemon.impl.quickfix.ImplementAbstractClassMethodsFix" count="2" />
+      <entry name="JAVA daemon.impl.quickfix.ImplementMethodsFix" count="2" />
+      <entry name="JAVA daemon.impl.quickfix.ImportClassFix" count="49" />
+      <entry name="JAVA daemon.impl.quickfix.ModifierFix" count="1" />
+      <entry name="JAVA daemon.impl.quickfix.RenameElementFix" count="1" />
+      <entry name="JAVA daemon.impl.quickfix.RenameWrongRefFix" count="6" />
+      <entry name="JAVA daemon.impl.quickfix.SafeDeleteFix" count="1" />
+      <entry name="JAVA daemon.impl.quickfix.VariableTypeFix" count="13" />
+      <entry name="JAVA daemon.impl.quickfix.WrapExpressionFix" count="1" />
+      <entry name="JAVA formatting.contextConfiguration.ConfigureCodeStyleOnSelectedFragment" count="1" />
+      <entry name="JAVA hints.BlacklistCurrentMethodIntention" count="1" />
+      <entry name="JAVA intention.impl.AddOnDemandStaticImportAction" count="1" />
+      <entry name="JAVA intention.impl.AddSingleMemberStaticImportAction" count="2" />
+      <entry name="JAVA intention.impl.AnnotateIntentionAction" count="1" />
+      <entry name="JAVA intention.impl.ExpandStaticImportAction" count="1" />
+      <entry name="JAVA intention.impl.IntroduceVariableIntentionAction" count="1" />
+      <entry name="JAVA intention.impl.JoinDeclarationAndAssignmentAction" count="1" />
+      <entry name="JAVA intention.impl.PriorityIntentionActionWrapper$HighPriorityIntentionActionWrapper" count="1" />
+      <entry name="JAVA intention.impl.RunRefactoringAction" count="1" />
+      <entry name="JAVA intention.impl.UnrollLoopAction" count="1" />
+      <entry name="JAVA intention.impl.config.QuickFixFactoryImpl$1" count="3" />
+      <entry name="JAVA lang.java.actions.CreateConstantAction" count="5" />
+      <entry name="JAVA lang.java.actions.CreateFieldAction" count="6" />
+      <entry name="JAVA lang.java.actions.CreateMethodAction" count="3" />
+      <entry name="JAVA lang.jvm.actions.JvmClassIntentionActionGroup" count="1" />
+      <entry name="JAVA org.jetbrains.android.inspections.CreateFileResourceQuickFix" count="2" />
+      <entry name="JAVA org.jetbrains.android.inspections.CreateValueResourceQuickFix" count="4" />
+      <entry name="JAVA testIntegration.createTest.CreateTestAction" count="1" />
+      <entry name="XML codeInspection.ex.EditInspectionToolsSettingsAction" count="1" />
+      <entry name="XML codeInspection.htmlInspections.RemoveExtraClosingTagIntentionAction" count="1" />
+      <entry name="XML codeInspection.htmlInspections.RenameTagBeginOrEndIntentionAction" count="2" />
+      <entry name="XML com.android.tools.idea.actions.OverrideResourceAction" count="10" />
+      <entry name="XML com.android.tools.idea.lint.SuppressLintIntentionAction" count="23" />
+      <entry name="XML intention.impl.AnnotateIntentionAction" count="2" />
+      <entry name="XML intention.impl.IntentionHintComponent$EditIntentionSettingsAction" count="1" />
+      <entry name="XML org.jetbrains.android.inspections.CreateFileResourceQuickFix" count="1" />
+      <entry name="XML org.jetbrains.android.inspections.CreateValueResourceQuickFix" count="30" />
+      <entry name="XML org.jetbrains.android.inspections.lint.AndroidAddStringResourceQuickFix" count="12" />
+      <entry name="XML org.jetbrains.android.inspections.lint.AndroidLintExternalAnnotator$MyFixingIntention" count="3" />
+      <entry name="XML org.jetbrains.android.intentions.AndroidExtractDimensionAction" count="8" />
+      <entry name="XML ui.EditorNotificationPanel$MyLinkOption" count="1" />
+      <entry name="XML xml.util.CollapseTagIntention" count="1" />
+    </Intentions>
+  </component>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Build -&gt; Rebuild Project" count="1" />
+      <entry path="Code -&gt; Reformat Code" count="15" />
+      <entry path="Edit -&gt; Find -&gt; Replace..." count="2" />
+      <entry path="File -&gt
